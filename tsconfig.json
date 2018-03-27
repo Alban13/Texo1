@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "noImplicitReturns": true,
+    "noImplicitAny": true,
+    //"sourceMap": true
+  },
+  //"exclude": [
+  //"node_modules"
+  //]
+}
